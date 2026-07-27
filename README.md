@@ -60,9 +60,8 @@ sudo python3 network_scanner.py -t 192.168.1.1/24
 
 ## 📸 Demo
 
-``<img width="640" height="226" alt="image" src="https://github.com/user-attachments/assets/ff1adc2b-6057-4934-8276-b6faa8150e7d" />
+<img width="640" height="226" alt="image" src="https://github.com/user-attachments/assets/ff1adc2b-6057-4934-8276-b6faa8150e7d" />
 
-```
 
 ## ⚠️ Disclaimer
 This project was built for **educational purposes only**, as part of learning Python and ethical hacking fundamentals. Only scan networks you **own** or have **explicit permission** to test. Unauthorized network scanning may be illegal in your jurisdiction.

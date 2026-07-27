@@ -59,9 +59,9 @@ sudo python3 network_scanner.py -t 192.168.1.1/24
 5. Prints the results in a clean table format.
 
 ## 📸 Demo
-*(Add a screenshot of your terminal output here)*
-```markdown
-https://github.com/Abulkalam1524/network-scanner/blob/main/Demo.png.jpeg
+
+``<img width="640" height="226" alt="image" src="https://github.com/user-attachments/assets/ff1adc2b-6057-4934-8276-b6faa8150e7d" />
+
 ```
 
 ## ⚠️ Disclaimer

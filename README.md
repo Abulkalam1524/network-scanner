@@ -61,7 +61,7 @@ sudo python3 network_scanner.py -t 192.168.1.1/24
 ## 📸 Demo
 *(Add a screenshot of your terminal output here)*
 ```markdown
-![Network Scanner Demo](demo.png)
+https://github.com/Abulkalam1524/network-scanner/blob/main/Demo.png.jpeg
 ```
 
 ## ⚠️ Disclaimer
